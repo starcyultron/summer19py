@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import datetime
 x=input("Enter your Name")
 y=int(input("Enter your Age"))
